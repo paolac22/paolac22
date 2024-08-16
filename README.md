@@ -2,7 +2,7 @@
 
 <img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlnZjJ2azJkYnMxcXFkeGJ0cm5odXdidXgxcjE4djBlbnkxOGM3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RkX2zcpO79EAf82ESl/giphy.gif" width="230">
 
-<p><em>Futura Ingeniera de Software en <a href="https://utp.ac.pa/">Universidad Tecnologica de Panamá</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Desarrolladora Web Jr<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Futura Ingeniera de Software en <a href="https://utp.ac.pa/">Universidad Tecnológica de Panamá</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Desarrolladora Web en proceso<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: _paolacristinaa](https://img.shields.io/twitter/follow/_paolacristinaa?style=social)](https://x.com/_paolacristinaa)
@@ -17,7 +17,7 @@
 const pao = {
   pronouns: "she" | "her",
   Lenguajes: [Javascript, HTML, CSS, Python],
- Reto actual: "Estoy haciendo el reto #30DaysOfJavaScript centrado en JavaScript"
+  Reto actual: "Estoy haciendo el reto #30DaysOfJavaScript centrado en JavaScript"
 }
 ```
 ---
